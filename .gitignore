@@ -1,0 +1,7 @@
+.terraform.lock.hcl
+.terraform/
+Demo/
+EC2-instance.tf
+commands.txt
+terraform.tfstate
+
